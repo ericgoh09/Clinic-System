@@ -1,0 +1,12 @@
+P1001|Panadol Regular - box of 30x500mg       |8-5-2014|GlaxoSmithKline(UK)        |53|Fever
+P1002|Loratadine - box of 10x10mg	           |8-8-2019|Pfizer (US)                |96|Flu
+P1003|Dimenhydrinate - box of 12x50mg         |1-5-2020|Novartis (Switzerland)     |35|Travel Sickness
+P1004|Prochlorperazine maleate - box of 10x5mg|12-6-2018|Sanofi (France)            |86|Antiemetic
+P1005|Diphenoxylate - box of 10x3mg           |31-5-2023|Roche Holding (Switzerland)|75|Diarrhea
+P1006|Panadol Regular - box of 30x500mg       |29-2-2018|Pfizer (US)                |43|fever
+P1007|Loratadine - box of 10x10mg             |18-9-2024|Actavis (Ireland)          |23|Flu
+P1008|Dimenhydrinate - box of 12x50mg         |7-1-2022|Merck (Germany)            |73|Travel Sickness
+P1009|Prochlorperazine maleate - box of 10x5mg|5-5-2021|Novo Nordisk (Denmark)     |56|Antiemetic
+P1010|Diphenoxylate - box of 10x3mg           |28-11-2018|Actavis (Ireland)          |81|Diarrhea
+P1011|Panadol Regular - box of 30x500mg       |24-2-2019|Sanofi (France)            |46|fever
+P1012|Loratadine - box of 10x10mg             |11-5-2020|Merck (Germany)            |60|Flu
